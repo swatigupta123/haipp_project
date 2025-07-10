@@ -1,4 +1,4 @@
-# 🧒📱 Haipp – Parental Control Android App
+#  Haipp – Parental Control Android App
 
 [![Play Store](https://img.shields.io/badge/Download-Play%20Store-green?logo=google-play)](https://play.google.com/store/apps/details?id=com.tracking.haipp)
 
@@ -6,20 +6,20 @@
 
 ---
 
-## 📱 Key Features
+##  Key Features
 
-- 👨‍👩‍👧 **Parental Login Dashboard**
-- 📊 **App Usage Tracking** – Monitor daily screen time & app usage (e.g. Instagram, YouTube)
-- 🔒 **App Blocking & Limits** – Restrict access to specific apps or websites
-- ⏱️ **Daily Screen Time Control** – Set total daily screen usage limits per child
-- 📍 **Real-Time GPS Tracking** – View current location of child on Google Maps
-- 🚧 **Geofencing Alerts** – Get notified when child enters/exits defined areas
-- 🎯 **Study Mode** – Temporarily block distractions during study hours
-- 🎁 **Reward System** – Assign educational tasks, reward good behavior with screen time or points
+-  **Parental Login Dashboard**
+-  **App Usage Tracking** – Monitor daily screen time & app usage (e.g. Instagram, YouTube)
+-  **App Blocking & Limits** – Restrict access to specific apps or websites
+-  **Daily Screen Time Control** – Set total daily screen usage limits per child
+-  **Real-Time GPS Tracking** – View current location of child on Google Maps
+-  **Geofencing Alerts** – Get notified when child enters/exits defined areas
+-  **Study Mode** – Temporarily block distractions during study hours
+-  **Reward System** – Assign educational tasks, reward good behavior with screen time or points
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 | Layer              | Technologies Used              |
 |-------------------|----------------------------------|
@@ -42,7 +42,7 @@
 
 ---
 
-## 🚀 How It Works (Flow)
+##  How It Works (Flow)
 
 1. **Parent registers & logs in**
 2. Adds child account & connects their device
@@ -52,7 +52,7 @@
 
 ---
 
-## 📈 Future Enhancements
+##  Future Enhancements
 
 -  Temporary block app usage via push command
 -  Offline sync with Room database
@@ -69,6 +69,6 @@ Android Developer | 2.4+ Years Experience
 
 ---
 
-## 🛡️ License
+##  License
 
 This app is proprietary and developed for commercial distribution via the Play Store. All rights reserved.
